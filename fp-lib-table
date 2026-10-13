@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ili") (type "KiCad") (uri "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/esp32") (options "") (descr ""))
+	(lib (name "PCBLIB_ILI9341-2.8_2026-10-05") (type "EasyEDA / JLCEDA Std") (uri "${KICAD_3RD_PARTY}/footprint/PCBLIB_ILI9341-2.8_2026-10-05.json") (options "") (descr ""))
+)
