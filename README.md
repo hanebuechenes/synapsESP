@@ -33,6 +33,7 @@ synapsESP/
 Das Modul wurde in KiCad strukturiert und modular aufgebaut. Es teilt die unterschiedlichen Blöcke (Audio, CV, UI, Power) in übersichtliche Schaltplan-Hierarchien auf.
 
 ### Voraussetzungen / Design-Tools
+
 * KiCad (Empfohlen: v7 oder neuer)
 * Passende Bibliotheken für Gehäuse-/Panel-Abmessungen und Spezialkomponenten (z. B. Display-Module)
 
